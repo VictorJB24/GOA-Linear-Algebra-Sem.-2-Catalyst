@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/26fc3a89-7c2c-4908-9e80-3c1bc4856f52/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/victorj-goa-catalyst",
+    "appService.deploySubpath": "."
+}
